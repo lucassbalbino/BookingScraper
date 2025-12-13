@@ -1,0 +1,94 @@
+Dt-Proce;Dt-Inicio;Dt-Fim;Nome;Tarifa;Cidade;Identifica;Avaliações;Nota;Estrelas;Propriedade;Funcionários;Comodidades;Limpeza;Conforto;Relação Qualidade/Preço;Localização;Wifi;Travel-Proud;Sustentabilidade;Tipo;Latitude;Longitude
+04/12/2025;22/12/2025;23/12/2025;ibis Sinop;R$ 289;Sinop;Diaria;1;7,7;3;Hotel;8,3;7,7;7,8;7,9;8,8;6,9;7,2;N;N;Hotel;-11.852201878169355;-55.49617758481537
+04/12/2025;22/12/2025;23/12/2025;Ucayali Hotel;R$ 390;Sinop;Diaria;878;9,3;4;Hotel;9,3;9,4;9,4;9,5;9,6;8,6;9,2;N;N;Hotel;-11.856160363261683;-55.496272174392516
+04/12/2025;22/12/2025;23/12/2025;Transamerica FIT Sinop;R$ 328;Sinop;Diaria;366;8,1;3;Hotel;8,5;8,2;8,3;8,2;9,0;7,4;7,4;S;N;Hotel;-11.856092;-55.51366
+04/12/2025;22/12/2025;23/12/2025;VIE HOTEL;R$ 416;Sinop;Diaria;532;9,2;5;Hotel;9,2;9,4;9,5;9,5;9,1;8,4;8,7;N;N;Hotel;-11.854966;-55.540893
+04/12/2025;22/12/2025;23/12/2025;SOFT HOTEL SiNOP;R$ 180;Sinop;Diaria;96;8,2;3;Privado;8,6;8,0;8,4;8,1;8,1;8,3;0.0;N;N;Hotel;-11.8418198;-55.5219597
+04/12/2025;22/12/2025;23/12/2025;Casa garagem caminhonete exceto Dodge Ram, 2 quartos, espaço para 6 pessoas, casa completa, 5min Centro - Casa 5;R$ 365;Sinop;Diaria;5;10;3;Privado;10,0;10,0;10,0;10,0;9,5;10,0;0.0;N;N;Apartamento;-11.8808944;-55.5295104
+04/12/2025;22/12/2025;23/12/2025;Apto Elegante com Garagem Bairro Nobre;R$ 133;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8393043;-55.5373369
+04/12/2025;22/12/2025;23/12/2025;Sonus Hotel;R$ 290;Sinop;Diaria;218;8,8;Sem Classificação;Hotel;9,0;8,9;9,0;8,9;8,3;8,1;8,3;N;N;Hotel;-11.8263545831591;-55.4865349470983
+04/12/2025;22/12/2025;23/12/2025;Vitoria Palace Hotel;R$ 244;Sinop;Diaria;344;8,4;Sem Classificação;Hotel;9,1;8,1;8,6;8,2;8,4;8,0;8,4;N;N;Hotel;-11.8760276048841;-55.4996636
+04/12/2025;22/12/2025;23/12/2025;Italian Palace Hotel;R$ 264;Sinop;Diaria;121;8,9;Sem Classificação;Hotel;9,2;8,4;8,9;9,1;9,4;8,2;8,4;N;N;Hotel;-11.854773342511;-55.498843947004
+04/12/2025;22/12/2025;23/12/2025;Mini Loft Siena;R$ 427;Sinop;Diaria;30;9,6;3;Privado;9,7;9,9;9,7;9,9;8,8;9,5;8,8;N;N;temporada;-11.8321542;-55.5305896
+04/12/2025;22/12/2025;23/12/2025;Apartamento completo ate 5 pessoas ou um quarto com sala e cozinha para 2 pessoas;R$ 280;Sinop;Diaria;36;9,7;3;Privado;9,9;9,5;9,8;9,6;8,0;9,7;10,0;N;N;Apartamento;-11.8137675148319;-55.5093364851837
+04/12/2025;22/12/2025;23/12/2025;Flats Andira Kuss;R$ 398;Sinop;Diaria;65;9,4;4;Hotel;9,4;9,4;9,5;9,0;8,7;9,4;9,0;N;N;Apartamento;-11.8839961;-55.504825900000014
+04/12/2025;22/12/2025;23/12/2025;Hotel Cancioneiro;R$ 250;Sinop;Diaria;112;7,5;Sem Classificação;Hotel;8,6;7,4;8,1;7,7;8,2;7,2;8,5;N;N;Hotel;-11.842754061364898;-55.49116471413072
+04/12/2025;22/12/2025;23/12/2025;Suíte com entrada individual;R$ 138;Sinop;Diaria;20;9,7;3;Privado;9,9;9,9;9,9;9,9;9,3;9,7;0.0;N;N;Apartamento;-11.8462744;-55.5194293
+04/12/2025;22/12/2025;23/12/2025;Apart Hotel Neri;R$ 229;Sinop;Diaria;254;9,8;4;Privado;9,7;9,9;9,8;9,8;9,6;9,7;9,7;N;N;Apartamento;-11.84467915138;-55.507953920832
+04/12/2025;22/12/2025;23/12/2025;Apartamento Rocha Sinop;R$ 406;Sinop;Diaria;63;7,9;4;Privado;8,9;8,2;7,3;7,7;8,3;8,1;9,1;N;N;Apartamento;-11.890743;-55.503252
+04/12/2025;22/12/2025;23/12/2025;Hostel 940;R$ 90;Sinop;Diaria;18;8,5;Sem Classificação;Privado;8,4;8,3;8,7;8,1;8,3;9,1;7,5;N;N;Hostel;-11.8375083;-55.5073435
+04/12/2025;22/12/2025;23/12/2025;Apartamento completo com 2 quartos no centro de sinop;R$ 546;Sinop;Diaria;11;9,2;3;Privado;9,5;9,0;8,9;8,8;9,0;9,3;0.0;N;N;Apartamento;-11.8567336;-55.5287111
+04/12/2025;22/12/2025;23/12/2025;Pousada central;R$ 181;Sinop;Diaria;49;9,0;3;Privado;9,0;8,8;9,4;9,0;9,5;9,0;8,7;N;N;hóspedes;-11.8549409;-55.5092702
+04/12/2025;22/12/2025;23/12/2025;Ap bem localizado e aconchegante;R$ 236;Sinop;Diaria;7;9,6;3;Privado;10,0;10,0;9,7;9,6;9,4;10,0;0.0;N;N;Apartamento;-11.8572000603993;-55.5318922005406
+04/12/2025;22/12/2025;23/12/2025;Confira esse ótimo lugar para ficar em Sinop;R$ 274;Sinop;Diaria;7;9,6;3;Privado;9,6;9,6;9,3;9,6;10,0;9,6;0.0;N;N;Apartamento;-11.8684799;-55.5236452
+04/12/2025;22/12/2025;23/12/2025;Quarto individual com 2 camas box de solteiro hostel 940;R$ 99;Sinop;Diaria;17;9,4;Sem Classificação;Privado;9,2;9,4;9,6;9,4;9,5;9,7;0.0;N;N;domiciliar;-11.8375102;-55.507322
+04/12/2025;22/12/2025;23/12/2025;Casa Agnoli;R$ 198;Sinop;Diaria;12;9,7;3;Privado;10,0;9,4;9,8;9,6;8,4;9,8;10,0;N;N;temporada;-11.8140791667898;-55.5094168191369
+04/12/2025;22/12/2025;23/12/2025;Casa confortavel e aconchegante;R$ 645;Sinop;Diaria;14;9,3;3;Privado;9,7;9,8;8,7;8,8;9,0;8,9;10,0;N;N;temporada;-11.8595954;-55.5321047
+04/12/2025;22/12/2025;23/12/2025;Nalevaiko- Apartamento próximo do centro;R$ 388;Sinop;Diaria;3;9,7;3;Privado;9,2;8,3;9,2;9,2;9,2;9,2;0.0;N;N;Apartamento;-11.8567336;-55.5287111
+04/12/2025;22/12/2025;23/12/2025;Apart Aconchego Mobiliado Centro;R$ 289;Sinop;Diaria;64;9,5;3;Privado;9,9;9,6;9,9;9,7;9,8;9,8;8,8;N;N;Apartamento;-11.8489143;-55.5142387
+04/12/2025;22/12/2025;23/12/2025;Apartamento minutos do Centro;R$ 486;Sinop;Diaria;10;10;3;Privado;9,7;9,7;9,7;9,7;9,7;9,7;0.0;N;N;Apartamento;-11.8567555986515;-55.528607086874
+04/12/2025;22/12/2025;23/12/2025;Apartamento individual Sinop 11;R$ 160;Sinop;Diaria;2;10;3;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-11.8336584;-55.4954518
+04/12/2025;22/12/2025;23/12/2025;top residencial 2;R$ 136;Sinop;Diaria;14;9,4;3;Privado;9,7;9,8;9,2;9,5;9,7;9,7;5,0;N;N;Apartamento;-11.836567490545;-55.534270254232
+04/12/2025;22/12/2025;23/12/2025;Lofts completos em Sinop MT;R$ 424;Sinop;Diaria;12;9,9;3;Hotel;10,0;10,0;9,8;9,8;10,0;10,0;10,0;N;N;Apartamento;-11.8763865;-55.5093213
+04/12/2025;22/12/2025;23/12/2025;Casa Sinop;R$ 470;Sinop;Diaria;5;9,6;3;Privado;9,0;9,5;9,5;9,5;9,0;9,0;0.0;N;N;temporada;-11.865152;-55.523219
+04/12/2025;22/12/2025;23/12/2025;VivaVida Imperial 104;R$ 245;Sinop;Diaria;14;9,7;3;Privado;9,8;9,8;10,0;9,6;9,8;9,8;0.0;N;N;Apartamento;-11.8424461;-55.5146035
+04/12/2025;22/12/2025;23/12/2025;Apto entrada individual 1;R$ 145;Sinop;Diaria;7;8,8;3;Privado;8,9;8,2;8,9;7,8;9,3;8,2;0.0;N;N;Apartamento;-11.8393043;-55.5373369
+04/12/2025;22/12/2025;23/12/2025;Pousada Parque do Lago;R$ 208;Sinop;Diaria;121;8,7;3;Privado;8,8;8,8;8,8;8,9;7,4;8,8;8,7;N;N;Apart-hotel;-11.8497208232633;-55.5632891734917
+04/12/2025;22/12/2025;23/12/2025;Hotel Jatobás Sinop;R$ 176;Sinop;Diaria;11;8,9;3;Privado;9,3;9,3;9,3;8,6;9,1;8,9;0.0;N;N;Hotel;-11.8817914;-55.5037509
+04/12/2025;22/12/2025;23/12/2025;Residencial Antônio Floriza;R$ 219;Sinop;Diaria;3;9,7;3;Privado;9,2;10,0;10,0;10,0;10,0;9,2;0.0;N;N;Apartamento;-11.8350784;-55.4970366
+04/12/2025;22/12/2025;23/12/2025;Residencial Málaga 02;R$ 264;Sinop;Diaria;31;9,2;3;Privado;9,4;9,1;9,2;9,4;7,7;9,1;8,7;N;N;Apartamento;-11.896381531345183;-55.47763197107824
+04/12/2025;22/12/2025;23/12/2025;Quarto no centro com 2 camas e hidromassagem;R$ 198;Sinop;Diaria;49;8,6;3;Privado;9,3;8,9;9,1;9,1;9,8;9,1;9,2;N;N;hóspedes;-11.8549409;-55.5092702
+04/12/2025;22/12/2025;23/12/2025;Hostel 940;R$ 140;Sinop;Diaria;13;7,2;Sem Classificação;Privado;9,2;6,8;7,5;7,1;8,2;7,3;10,0;N;N;domiciliar;-11.8375083;-55.5073435
+04/12/2025;22/12/2025;23/12/2025;Plamary Recanto do Sossego;R$ 600;Sinop;Diaria;6;9,5;3;Hotel;9,6;9,6;10,0;9,6;7,9;9,6;7,5;N;N;Apartamento;-11.9037189;-55.4713524
+04/12/2025;22/12/2025;23/12/2025;Suíte de luxo no centro com closet e hidromassagem;R$ 240;Sinop;Diaria;47;8,9;Sem Classificação;Privado;9,2;9,0;9,1;9,2;9,7;9,3;6,9;N;N;domiciliar;-11.854819226202;-55.509250712529
+04/12/2025;22/12/2025;23/12/2025;Kitnet cantinho do parque;R$ 225;Sinop;Diaria;6;9,8;Sem Classificação;Privado;10,0;9,6;9,6;10,0;9,2;10,0;0.0;N;N;Apartamento;-11.825677;-55.501622
+04/12/2025;22/12/2025;23/12/2025;Apt estiloso;R$ 234;Sinop;Diaria;5;10;Sem Classificação;Privado;9,5;9,5;9,5;9,5;10,0;9,5;0.0;N;N;Apartamento;-11.8367093455821;-55.5119737809148
+04/12/2025;22/12/2025;23/12/2025;Hotel Pousada Real;R$ 273;Sinop;Diaria;19;8,3;3;Hotel;8,4;8,0;8,1;8,2;8,5;7,2;10,0;N;N;Hotel;-11.855049149077098;-55.49412915645462
+04/12/2025;22/12/2025;23/12/2025;Apartamento em Sinop 8M;R$ 178;Sinop;Diaria;2;10;Sem Classificação;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-11.8336584;-55.4954518
+04/12/2025;22/12/2025;23/12/2025;Casa Serena;R$ 489;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-11.8366538;-55.5329897
+04/12/2025;22/12/2025;23/12/2025;Residecial Málaga 01;R$ 264;Sinop;Diaria;24;9,4;3;Privado;8,8;9,2;9,1;9,1;8,4;9,1;8,8;N;N;temporada;-11.8967796603593;-55.4732540382752
+04/12/2025;22/12/2025;23/12/2025;casa grande e confortavel;R$ 649;Sinop;Diaria;10;8,6;3;Privado;7,8;9,7;9,5;8,9;7,7;8,9;0.0;N;N;temporada;-11.8875657;-55.5236737
+04/12/2025;22/12/2025;23/12/2025;Casa Mobiliada com Piscina;R$ 560;Sinop;Diaria;15;9,7;Sem Classificação;Privado;9,7;9,7;9,9;9,7;9,4;9,1;0.0;N;N;temporada;-11.8839473008812;-55.5237375250241
+04/12/2025;22/12/2025;23/12/2025;Casa prática bem localizada;R$ 198;Sinop;Diaria;1;10;Sem Classificação;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;temporada;-11.8702455;-55.5158083
+04/12/2025;22/12/2025;23/12/2025;Conforto e ótima localização, proxima da BR e centro;R$ 275;Sinop;Diaria;5;9,8;3;Privado;9,4;10,0;9,5;10,0;10,0;10,0;0.0;N;N;Apartamento;-11.830128160570075;-55.50143952363258
+04/12/2025;22/12/2025;23/12/2025;Apartamento novo no centro de Sinop!;R$ 359;Sinop;Diaria;4;10;3;Privado;9,4;10,0;10,0;10,0;10,0;9,4;0.0;N;N;Apartamento;-11.8654644913665;-55.5039728331475
+04/12/2025;22/12/2025;23/12/2025;Casa Mobiliada Itaubas com ar condicionado;R$ 650;Sinop;Diaria;15;9,7;Sem Classificação;Privado;9,8;9,7;9,9;9,9;9,3;9,4;0.0;N;N;temporada;-11.8808263;-55.5192621
+04/12/2025;22/12/2025;23/12/2025;Perto da área central;R$ 304;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-11.8389577091718;-55.534505053279
+04/12/2025;22/12/2025;23/12/2025;Apartamento em bairro nobre com garagem;R$ 158;Sinop;Diaria;3;7,0;3;Privado;7,5;7,5;7,5;7,5;7,5;7,5;0.0;N;N;Apartamento;-11.8393043;-55.5373369
+04/12/2025;22/12/2025;23/12/2025;Plaza Hotel Sinop;R$ 299;Sinop;Diaria;5;6,2;3;Hotel;8,0;5,5;6,0;6,0;9,0;4,5;0.0;N;N;Hotel;-11.8648947950423;-55.5017662354431
+04/12/2025;22/12/2025;23/12/2025;Hostel 940;R$ 99;Sinop;Diaria;21;8,6;Sem Classificação;Privado;9,2;8,1;8,3;8,4;8,8;8,4;10,0;N;N;Hostel;-11.8375083;-55.5073435
+04/12/2025;22/12/2025;23/12/2025;Casa para locação de temporada em Sinop;R$ 658;Sinop;Diaria;2;9,5;Sem Classificação;Privado;10,0;10,0;10,0;10,0;8,8;10,0;0.0;N;N;Apartamento;-11.9030918;-55.4791916
+04/12/2025;22/12/2025;23/12/2025;Apartamento Oliveira;R$ 241;Sinop;Diaria;2;9,5;3;Hotel;10,0;10,0;10,0;10,0;8,8;10,0;0.0;N;N;Apartamento;-11.836485678583475;-55.5474678034546
+04/12/2025;22/12/2025;23/12/2025;casa paraiso 1980;R$ 310;Sinop;Diaria;1;10;Sem Classificação;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-11.8668881;-55.5190883
+04/12/2025;22/12/2025;23/12/2025;VivaVida Imperial 103;R$ 200;Sinop;Diaria;7;8,5;3;Privado;9,2;9,6;9,6;9,6;9,6;9,6;0.0;N;N;Apartamento;-11.8430528;-55.51452
+04/12/2025;22/12/2025;23/12/2025;Casa GZ - Quarto 01 - Ideal para quem vem a Sinop a trabalho!;R$ 273;Sinop;Diaria;1;5,0;Sem Classificação;Privado;5,0;5,0;5,0;5,0;2,5;10,0;0.0;N;N;hóspedes;-11.8883320225461;-55.4777286711173
+04/12/2025;22/12/2025;23/12/2025;VivaVida Bounganvilli 02;R$ 146;Sinop;Diaria;7;9,6;3;Privado;9,3;9,3;9,3;9,3;7,9;9,3;0.0;N;N;Apartamento;-11.8890995;-55.5426243
+04/12/2025;22/12/2025;23/12/2025;Casa Carvalho;R$ 130;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;domiciliar;-11.8813663;-55.5110588
+04/12/2025;22/12/2025;23/12/2025;Apartamento completo e bem localizado;R$ 402;Sinop;Diaria;2;10;3;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-11.8645774;-55.5292555
+04/12/2025;22/12/2025;23/12/2025;Casa Ideal e Confortável;R$ 980;Sinop;Diaria;3;8,0;4;Privado;7,5;9,2;8,3;7,5;10,0;8,3;0.0;N;N;temporada;-11.863133928857;-55.525889842105
+04/12/2025;22/12/2025;23/12/2025;Casa prática;R$ 198;Sinop;Diaria;3;7,7;Sem Classificação;Privado;9,2;8,3;7,5;8,8;10,0;9,2;0.0;N;N;temporada;-11.8679483;-55.5237809
+04/12/2025;22/12/2025;23/12/2025;Nalevaiko- Apto Completo com Suíte e Garagem sinop;R$ 385;Sinop;Diaria;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8694871;-55.5069542
+04/12/2025;22/12/2025;23/12/2025;Espaço aconchego a 3 minutos do centro;R$ 381;Sinop;Diaria;10;9,9;3;Privado;10,0;9,6;9,6;10,0;9,3;10,0;0.0;N;N;Apartamento;-11.8403392510302;-55.497336996106
+04/12/2025;22/12/2025;23/12/2025;Residencial jardim bougainville;R$ 380;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.884598;-55.538617
+04/12/2025;22/12/2025;23/12/2025;Apartamento com Varanda e Ar Condicionado;R$ 330;Sinop;Diaria;6;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8567336;-55.5287111
+04/12/2025;22/12/2025;23/12/2025;WM Milão Piscina, Churrasqueira e Suíte Privativa;R$ 223;Sinop;Diaria;8;9,2;Sem Classificação;Privado;9,9;9,2;8,3;9,2;7,7;9,2;0.0;N;N;Apartamento;-11.8995061;-55.5316711
+04/12/2025;22/12/2025;23/12/2025;Apartamento em Sinop 10M;R$ 178;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8336584;-55.4954518
+04/12/2025;22/12/2025;23/12/2025;Apartamento em Sinop 11;R$ 178;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8387092;-55.5036052
+04/12/2025;22/12/2025;23/12/2025;Apartamento solteiro sinop 9M;R$ 168;Sinop;Diaria;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8336584;-55.4954518
+04/12/2025;22/12/2025;23/12/2025;VivaVida Imperial 101;R$ 245;Sinop;Diaria;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8430535;-55.5145166
+04/12/2025;22/12/2025;23/12/2025;Flat próximo do centro;R$ 270;Sinop;Diaria;2;10;3;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-11.8533009;-55.527755
+04/12/2025;22/12/2025;23/12/2025;VivaVida boungavilli 01;R$ 146;Sinop;Diaria;1;7,0;3;Privado;10,0;10,0;10,0;5,0;5,0;7,5;0.0;N;N;Apartamento;-11.8890995;-55.5426243
+04/12/2025;22/12/2025;23/12/2025;Casa vaga 2 carros, 2 quartos, espaçosa, completa para 8 pessoas;R$ 360;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8916314529341;-55.5308879260528
+04/12/2025;22/12/2025;23/12/2025;Aconchego Urbano;R$ 336;Sinop;Diaria;11;9,2;4;Privado;9,4;8,6;9,2;8,7;9,4;8,9;0.0;N;N;Apartamento;-11.840911;-55.4976891
+04/12/2025;22/12/2025;23/12/2025;ModuLoftSinop;R$ 280;Sinop;Diaria;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8533391499014;-55.4824350798514
+04/12/2025;22/12/2025;23/12/2025;Condomínio Nalevaiko;R$ 324;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8567336;-55.5287111
+04/12/2025;22/12/2025;23/12/2025;Pousadinha Safira;R$ 378;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-11.825056;-55.482473
+04/12/2025;22/12/2025;23/12/2025;Sinop Urb;R$ 172;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.8806176872095;-55.4892814004007
+04/12/2025;22/12/2025;23/12/2025;Espaço Aconchego 02;R$ 430;Sinop;Diaria;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-11.840328910869465;-55.49740973660966
+04/12/2025;22/12/2025;23/12/2025;Quarto 02 - Cama king size com climatizador;R$ 130;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-11.8882937078961;-55.477625586533
+04/12/2025;22/12/2025;23/12/2025;Casa Espaçosa;R$ 338;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-11.825056;-55.482473
+04/12/2025;22/12/2025;23/12/2025;Ap conforto no centro de Sinop 2;R$ 259;Sinop;Diaria;1;10;3;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-11.8637625;-55.5033171
+04/12/2025;22/12/2025;23/12/2025;Pousada recanto das palmeiras;R$ 288;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Camping;-11.466341266637;-55.573028986475
+04/12/2025;22/12/2025;23/12/2025;Chalé do Lago Sinop MT;R$ 644;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Camping;-11.6257811477929;-55.6974878730599
+04/12/2025;22/12/2025;23/12/2025;Hortênsias;R$ 822;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-11.862595;-55.515413
+04/12/2025;22/12/2025;23/12/2025;Chácara Condomínio Monte Siao;R$ 288;Sinop;Diaria;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-11.8575252;-55.4557419
