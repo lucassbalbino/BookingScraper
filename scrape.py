@@ -237,7 +237,7 @@ def get_private_div(accomodation):
 
 def web_scraper(driver):
     # Reunindo as acomodações
-    Accomodations = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@data-testid="property-card"]')))
+    Accomodations = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@data-testid="property-card-container"]')))
     Accomodations_list = []
     # Criando uma lista para armazenar os dados das acomodações 
     try:
@@ -277,7 +277,7 @@ def web_scraper(driver):
 
 def get_inside_url(driver):
     inside_urls = [] 
-    Accomodations = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@data-testid="property-card"]')))
+    Accomodations = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, '//*[@data-testid="property-card-container"]')))
  
 
     for accomodation in Accomodations:

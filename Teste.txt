@@ -1,0 +1,151 @@
+Dt-Proce;Dt-Inicio;Dt-Fim;Nome;Tarifa;Cidade;Identifica;Avaliações;Nota;Estrelas;Propriedade;Funcionários;Comodidades;Limpeza;Conforto;Relação Qualidade/Preço;Localização;Wifi;Travel-Proud;Sustentabilidade;Tipo;Latitude;Longitude
+06/02/2026;29/08/2026;30/08/2026;Apto Tavares Jockey X;R$ 338;Campos dos Goytacazes;Teste;0;0;4;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.772814;-41.280794
+06/02/2026;29/08/2026;30/08/2026;Promenade Soho Campos dos Goytacazes - OFICIAL;R$ 293;Campos dos Goytacazes;Teste;341;9,0;4;Hotel;9,0;9,1;9,2;9,3;9,3;8,6;8,9;N;N;Hotel;-21.763386;-41.327522
+06/02/2026;29/08/2026;30/08/2026;Complete Apartment-Comfort and Practicality-Well located;R$ 94;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7357598552451;-41.3045028653628
+06/02/2026;29/08/2026;30/08/2026;Apto Agua Pri;R$ 193;Campos dos Goytacazes;Teste;1;8,0;Sem Classificação;Privado;10,0;10,0;7,5;7,5;10,0;7,5;0.0;N;N;Apartamento;-21.7641713;-41.3540956
+06/02/2026;29/08/2026;30/08/2026;Apartamento Especial;R$ 162;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7651804;-41.3542734
+06/02/2026;29/08/2026;30/08/2026;Excelente Flat,aconchegante e Sossegado;R$ 134;Campos dos Goytacazes;Teste;6;8,4;Sem Classificação;Privado;9,2;8,4;9,6;8,4;8,8;8,4;0.0;N;N;Apartamento;-21.756182;-41.3273568
+06/02/2026;29/08/2026;30/08/2026;Apartamento aconchegante;R$ 270;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7651804;-41.3542734
+06/02/2026;29/08/2026;30/08/2026;Apartamento completo condomínio Ônix;R$ 171;Campos dos Goytacazes;Teste;8;9,6;3;Privado;10,0;9,0;10,0;9,7;9,3;10,0;0.0;N;N;Apartamento;-21.7643076;-41.3529943
+06/02/2026;29/08/2026;30/08/2026;Jockey Apto 2;R$ 144;Campos dos Goytacazes;Teste;14;6,0;3;Privado;6,6;6,9;6,6;6,6;6,8;7,3;0.0;N;N;Apartamento;-21.772909;-41.281543
+06/02/2026;29/08/2026;30/08/2026;Água Novo 2026;R$ 224;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7651804;-41.3542734
+06/02/2026;29/08/2026;30/08/2026;Flat Aconchegante;R$ 180;Campos dos Goytacazes;Teste;26;9,8;4;Privado;9,6;9,7;9,6;9,7;9,8;9,5;10,0;N;N;Apart-hotel;-21.7634014;-41.3274829
+06/02/2026;29/08/2026;30/08/2026;Apartamento aconchegante ideal para casais;R$ 136;Campos dos Goytacazes;Teste;21;9,8;3;Privado;9,7;9,9;9,8;10,0;9,5;9,9;0.0;N;N;Apartamento;-21.7323326;-41.3560115
+06/02/2026;29/08/2026;30/08/2026;Pousada Pinheiro;R$ 140;Parque Leopoldina, Campos dos Goytacazes;Teste;150;8,0;Sem Classificação;Hotel;8,3;8,0;8,4;8,4;8,9;8,2;8,1;N;N;Pousada;-21.75236;-41.341233
+06/02/2026;29/08/2026;30/08/2026;Apart velasco;R$ 203;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7640171;-41.3521246
+06/02/2026;29/08/2026;30/08/2026;Aconchego de Casa;R$ 77;Campos dos Goytacazes;Teste;10;7,7;Sem Classificação;Privado;9,0;7,2;7,2;8,0;8,2;8,5;0.0;N;N;Apartamento;-21.7724233;-41.2878823
+06/02/2026;29/08/2026;30/08/2026;Flat ViaPark;R$ 180;Campos dos Goytacazes;Teste;41;8,6;3;Privado;8,9;8,5;8,8;8,6;9,5;9,0;10,0;N;N;Apartamento;-21.7651762;-41.3283258
+06/02/2026;29/08/2026;30/08/2026;Hotel Campos Plaza;R$ 170;Campos dos Goytacazes;Teste;345;8,4;Sem Classificação;Hotel;9,1;8,3;8,8;8,4;8,7;8,5;8,2;N;N;Hotel;-21.767801;-41.350578
+06/02/2026;29/08/2026;30/08/2026;Apartamento aconchegante centro Campos-Rj;R$ 144;Campos dos Goytacazes;Teste;70;8,9;4;Privado;9,5;8,9;8,6;8,6;9,5;9,0;10,0;N;N;Apartamento;-21.756358;-41.327249
+06/02/2026;29/08/2026;30/08/2026;Pousada Familiar 31;R$ 63;Campos dos Goytacazes;Teste;18;8,8;Sem Classificação;Privado;9,6;8,9;9,3;8,9;9,0;9,0;0.0;N;N;domiciliar;-21.7693262;-41.319404
+06/02/2026;29/08/2026;30/08/2026;Via Park Flat PARAÍSO;R$ 180;Campos dos Goytacazes;Teste;14;8,4;4;Privado;8,7;8,9;8,7;8,7;9,1;8,7;0.0;N;N;Apartamento;-21.7661474;-41.3263524
+06/02/2026;29/08/2026;30/08/2026;DLUX Hotel;R$ 183;Campos dos Goytacazes;Teste;106;7,8;Sem Classificação;Hotel;8,7;7,7;8,3;7,6;8,2;8,1;5,6;N;N;Hotel;-21.7509537;-41.3487562
+06/02/2026;29/08/2026;30/08/2026;Suite Aconchegante;R$ 85;Campos dos Goytacazes;Teste;26;8,1;Sem Classificação;Privado;9,1;8,1;8,2;8,2;9,4;8,9;0.0;N;N;Apartamento;-21.756182;-41.3273568
+06/02/2026;29/08/2026;30/08/2026;Pousada El Shaddai;R$ 130;Campos dos Goytacazes;Teste;148;8,2;Sem Classificação;Privado;9,0;8,2;8,7;8,4;8,2;8,4;9,4;N;N;Pousada;-21.74718895846255;-41.3439284561681
+06/02/2026;29/08/2026;30/08/2026;Hotel Cravo e Canela;R$ 260;Campos dos Goytacazes;Teste;763;8,4;4;Hotel;8,7;8,2;8,5;8,5;8,4;8,2;7,3;N;N;Hotel;-21.75920951768078;-41.345946192741394
+06/02/2026;29/08/2026;30/08/2026;América Executive Apart Hotel Campos;R$ 268;Campos dos Goytacazes;Teste;33;9,6;4;Privado;9,8;9,8;9,8;9,6;9,8;9,8;10,0;N;N;Apartamento;-21.754764094051716;-41.339211942736014
+06/02/2026;29/08/2026;30/08/2026;Flat Confortável;R$ 180;Campos dos Goytacazes;Teste;11;8,8;4;Privado;9,3;8,2;8,5;8,9;8,6;8,1;0.0;N;N;Apartamento;-21.765355888453993;-41.32825996023564
+06/02/2026;29/08/2026;30/08/2026;Apartamento Gaia;R$ 450;Campos dos Goytacazes;Teste;14;7,0;3;Privado;7,4;7,8;7,8;7,8;7,8;8,1;0.0;N;N;Apartamento;-21.77280017344628;-41.280580894040924
+06/02/2026;29/08/2026;30/08/2026;Parque Jockey Campos;R$ 210;Campos dos Goytacazes;Teste;4;7,2;3;Privado;5,6;7,5;8,1;6,9;6,9;8,7;0.0;N;N;Apartamento;-21.757863;-41.245261
+06/02/2026;29/08/2026;30/08/2026;Apto Raimundo de Farias 289;R$ 100;Campos dos Goytacazes;Teste;5;7,6;3;Privado;8,0;7,5;7,5;7,0;7,0;8,0;0.0;N;N;Apartamento;-21.7635228;-41.3531341
+06/02/2026;29/08/2026;30/08/2026;Apto Richard Shopping;R$ 225;Campos dos Goytacazes;Teste;16;6,9;3;Privado;6,8;7,3;6,4;6,9;7,3;7,7;8,3;N;N;Apartamento;-21.757266596539225;-41.350212011947626
+06/02/2026;29/08/2026;30/08/2026;Apto Ester Onizz;R$ 172;Campos dos Goytacazes;Teste;9;7,5;3;Privado;9,4;7,9;8,4;8,4;8,5;8,4;0.0;N;N;Apartamento;-21.764749;-41.353202
+06/02/2026;29/08/2026;30/08/2026;Tulip Inn Campos dos Goytacazes;R$ 308;Parque Leopoldina, Campos dos Goytacazes;Teste;1;8,6;3;Hotel;9,1;8,5;8,8;8,8;9,2;8,4;7,7;S;N;Hotel;-21.7564822;-41.34815249999997
+06/02/2026;29/08/2026;30/08/2026;Flat Aconchegante;R$ 180;Campos dos Goytacazes;Teste;21;7,9;4;Privado;8,8;8,0;7,9;7,9;9,5;7,7;0.0;N;N;Apartamento;-21.765335623783827;-41.32815413862305
+06/02/2026;29/08/2026;30/08/2026;Flat centro - Via Park;R$ 180;Campos dos Goytacazes;Teste;47;8,7;4;Privado;9,0;8,6;8,8;8,7;9,5;8,6;9,4;N;N;Apartamento;-21.7651526;-41.3282876
+06/02/2026;29/08/2026;30/08/2026;Flat aconchegante e tranquilo;R$ 108;Campos dos Goytacazes;Teste;6;7,3;Sem Classificação;Privado;7,9;7,1;7,5;7,1;8,8;6,7;0.0;N;N;Apartamento;-21.7618869;-41.3207623
+06/02/2026;29/08/2026;30/08/2026;Flat ViaPark9;R$ 170;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7663242;-41.3253111
+06/02/2026;29/08/2026;30/08/2026;AGUA MAIS;R$ 248;Campos dos Goytacazes;Teste;6;8,0;3;Privado;7,5;8,0;7,5;7,5;7,5;8,0;0.0;N;N;Apartamento;-21.764768;-41.354636
+06/02/2026;29/08/2026;30/08/2026;GoldMen Express Campos Goycatazes;R$ 248;Campos dos Goytacazes;Teste;36;8,0;3;Hotel;8,6;7,9;8,7;8,4;8,7;8,3;0.0;N;N;Hotel;-21.7613325;-41.3238378
+06/02/2026;29/08/2026;30/08/2026;Apartamento Aconchegante;R$ 170;Campos dos Goytacazes;Teste;1;8,0;Sem Classificação;Privado;10,0;7,5;7,5;7,5;10,0;7,5;0.0;N;N;Apartamento;-21.7651526;-41.3282876
+06/02/2026;29/08/2026;30/08/2026;Flat Aconchegante e Tranquilo;R$ 97;Campos dos Goytacazes;Teste;7;8,3;Sem Classificação;Privado;9,2;8,0;8,7;6,9;8,9;8,7;0.0;N;N;Apartamento;-21.7614561;-41.3167841
+06/02/2026;29/08/2026;30/08/2026;LUXO E CONFORTO NO CENTRO;R$ 400;Campos dos Goytacazes;Teste;103;7,8;4;Privado;8,0;8,2;8,2;8,0;9,1;8,0;8,7;N;N;Apartamento;-21.75534142051996;-41.32768235830116
+06/02/2026;29/08/2026;30/08/2026;Casa 4;R$ 195;Campos dos Goytacazes;Teste;10;7,4;3;Privado;7,1;7,0;7,4;7,9;7,0;7,9;0.0;N;N;temporada;-21.757863;-41.245261
+06/02/2026;29/08/2026;30/08/2026;Flat Temporada Centro da Cidade;R$ 157;Campos dos Goytacazes;Teste;3;8,3;Sem Classificação;Privado;9,2;9,2;8,3;9,2;10,0;10,0;0.0;N;N;Apartamento;-21.7640409;-41.3250024
+06/02/2026;29/08/2026;30/08/2026;Transamerica Executive Campos dos Goytacazes;R$ 378;Parque Leopoldina, Campos dos Goytacazes;Teste;623;8,8;4;Hotel;9,0;8,8;9,0;8,9;9,2;8,5;8,9;S;N;Hotel;-21.754660016287442;-41.33968564031983
+06/02/2026;29/08/2026;30/08/2026;Flat ViaPark7;R$ 170;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7663242;-41.3253111
+06/02/2026;29/08/2026;30/08/2026;Apto condomínio Ônix;R$ 192;Campos dos Goytacazes;Teste;21;9,7;Sem Classificação;Privado;9,4;9,6;9,7;9,6;9,3;9,6;7,5;N;N;Apartamento;-21.7643076;-41.3529943
+06/02/2026;29/08/2026;30/08/2026;flat esdutios aconchegante;R$ 135;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7637851876792;-41.3207258360475
+06/02/2026;29/08/2026;30/08/2026;studio estilo industrial Centro;R$ 153;Campos dos Goytacazes;Teste;2;5,5;Sem Classificação;Privado;6,3;5,0;6,3;10,0;7,5;10,0;0.0;N;N;Apartamento;-21.7619166498406;-41.3205482687401
+06/02/2026;29/08/2026;30/08/2026;Apart Hotel - Campos dos Goytacazes;R$ 238;Parque Leopoldina, Campos dos Goytacazes;Teste;251;9,1;4;Privado;9,3;9,2;9,1;9,0;9,7;9,1;8,5;N;N;Apartamento;-21.754945;-41.339532
+06/02/2026;29/08/2026;30/08/2026;Via Park HOTEL Centro;R$ 170;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.765216055962554;-41.32829361349182
+06/02/2026;29/08/2026;30/08/2026;Comodidade ViaPark;R$ 180;Campos dos Goytacazes;Teste;36;9,2;4;Privado;8,9;8,7;8,9;8,7;9,5;9,0;10,0;N;N;Apartamento;-21.7651762;-41.3283258
+06/02/2026;29/08/2026;30/08/2026;Apto guarus;R$ 144;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.737697;-41.3070757
+06/02/2026;29/08/2026;30/08/2026;Pousada Bem Estar Offshore;R$ 280;Campos dos Goytacazes;Teste;45;8,1;Sem Classificação;Hotel;8,9;7,8;8,2;7,8;8,7;7,3;9,4;S;N;Hotel;-22.0407836;-41.0469067
+06/02/2026;29/08/2026;30/08/2026;Flat temporada;R$ 152;Campos dos Goytacazes;Teste;28;9,6;Sem Classificação;Privado;9,2;9,6;9,7;9,5;9,8;9,4;9,5;N;N;Apartamento;-21.7634014;-41.3274829
+06/02/2026;29/08/2026;30/08/2026;Flat ViaPark4;R$ 170;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7663242;-41.3253111
+06/02/2026;29/08/2026;30/08/2026;Apartamento ao lado Shopping;R$ 500;Campos dos Goytacazes;Teste;8;7,8;3;Privado;7,5;8,0;8,0;8,4;8,0;8,0;7,5;N;N;Apartamento;-21.757137;-41.348478
+06/02/2026;29/08/2026;30/08/2026;Hotel hawaii;R$ 300;Campos dos Goytacazes;Teste;103;6,9;2;Hotel;8,1;6,9;7,2;6,8;8,6;7,6;6,0;N;N;Hotel;-21.759865;-41.325228
+06/02/2026;29/08/2026;30/08/2026;Apartamento 1 quarto Edifício Ipanema Residence;R$ 414;Campos dos Goytacazes;Teste;9;10;3;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-21.7547633;-41.3362602
+06/02/2026;29/08/2026;30/08/2026;Apto JOSENINOS;R$ 150;Campos dos Goytacazes;Teste;5;6,6;3;Privado;8,0;7,0;7,5;6,5;9,0;7,0;0.0;N;N;Apartamento;-21.76194655558278;-41.3259768175869
+06/02/2026;29/08/2026;30/08/2026;Apartamento no Centro;R$ 81;Campos dos Goytacazes;Teste;14;7,6;3;Privado;7,7;7,3;7,5;7,9;9,2;8,4;0.0;N;N;Apartamento;-21.7618869;-41.3207623
+06/02/2026;29/08/2026;30/08/2026;Apto Antunes terreo;R$ 140;Campos dos Goytacazes;Teste;7;4,4;Sem Classificação;Privado;6,5;5,0;4,5;5,0;6,5;5,0;7,5;N;N;Apartamento;-21.762354;-41.326188
+06/02/2026;29/08/2026;30/08/2026;Comfort Hotel Campos dos Goytacazes;R$ 347;Campos dos Goytacazes;Teste;204;8,9;3;Hotel;9,4;8,7;9,1;9,1;9,1;8,4;8,4;S;N;Hotel;-21.764456927208183;-41.33201479911804
+06/02/2026;29/08/2026;30/08/2026;Ramada Hotel & Suites Campos Pelinca;R$ 378;Campos dos Goytacazes;Teste;383;8,6;4;Hotel;9,1;8,7;8,6;8,8;9,2;8,2;8,8;S;N;Hotel;-21.7543116;-41.338781400000016
+06/02/2026;29/08/2026;30/08/2026;Kit Pronto Centro;R$ 117;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7622158;-41.3259367
+06/02/2026;29/08/2026;30/08/2026;Kit Centro Extra;R$ 160;Campos dos Goytacazes;Teste;4;6,8;Sem Classificação;Privado;6,3;7,5;6,9;7,5;6,3;6,9;7,5;N;N;Apartamento;-21.7620364;-41.3258387
+06/02/2026;29/08/2026;30/08/2026;Jockey Apto 1;R$ 90;Campos dos Goytacazes;Teste;25;6,0;3;Privado;7,0;6,5;6,0;6,6;7,0;6,5;0.0;N;N;Apartamento;-21.775597;-41.277399
+06/02/2026;29/08/2026;30/08/2026;Apto no Centro;R$ 180;Campos dos Goytacazes;Teste;16;4,6;Sem Classificação;Privado;5,1;5,0;5,5;5,5;5,6;5,5;6,3;N;N;Apartamento;-21.762036;-41.325839
+06/02/2026;29/08/2026;30/08/2026;Apto Agua Marinha 289;R$ 162;Campos dos Goytacazes;Teste;2;5,5;3;Privado;6,3;6,3;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-21.7651804;-41.3542734
+06/02/2026;29/08/2026;30/08/2026;Casa Centro Terreo;R$ 144;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-21.7620364;-41.3258387
+06/02/2026;29/08/2026;30/08/2026;Rua Lacerda sobrinho, 221;R$ 154;Campos dos Goytacazes;Teste;1;10;Sem Classificação;Privado;7,5;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-21.7620364;-41.3258387
+06/02/2026;29/08/2026;30/08/2026;One Campos;R$ 280;Campos dos Goytacazes;Teste;2;5,5;3;Privado;8,8;6,3;5,0;6,3;6,3;5,0;0.0;N;N;Apartamento;-21.7637655;-41.34686
+06/02/2026;29/08/2026;30/08/2026;Plaza Shopping Guarus;R$ 105;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.737697;-41.3070757
+06/02/2026;29/08/2026;30/08/2026;Casal Agua Marinha;R$ 135;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7651804;-41.3542734
+06/02/2026;29/08/2026;30/08/2026;Apt no térreo com área externa, ideal para família com criança;R$ 135;Campos dos Goytacazes;Teste;10;7,4;3;Privado;8,0;7,0;7,5;7,7;7,8;8,8;0.0;N;N;Apartamento;-21.8139727562417;-41.2963303337443
+06/02/2026;29/08/2026;30/08/2026;Água Campos;R$ 180;Campos dos Goytacazes;Teste;3;7,7;Sem Classificação;Privado;9,2;7,5;7,5;8,3;10,0;8,3;0.0;N;N;Apartamento;-21.7647728;-41.3546532
+06/02/2026;29/08/2026;30/08/2026;Dom Gabriel;R$ 156;Campos dos Goytacazes;Teste;3;7,3;3;Privado;8,3;7,5;7,5;7,5;9,2;8,3;0.0;N;N;Apartamento;-21.775415;-41.277661
+06/02/2026;29/08/2026;30/08/2026;Agua com churrasqueira;R$ 216;Campos dos Goytacazes;Teste;2;7,0;3;Privado;7,5;7,5;8,7;7,5;6,3;6,3;0.0;N;N;Apartamento;-21.7641713;-41.3540956
+06/02/2026;29/08/2026;30/08/2026;Apto Agua Marinha;R$ 150;Campos dos Goytacazes;Teste;12;6,0;3;Privado;7,0;7,0;6,5;6,5;8,0;6,5;10,0;N;N;Apartamento;-21.764953;-41.353136
+06/02/2026;29/08/2026;30/08/2026;Apto Tupila Shopping;R$ 163;Campos dos Goytacazes;Teste;4;6,5;3;Privado;8,1;6,9;6,9;7,5;8,1;8,1;0.0;N;N;Apartamento;-21.757019;-41.348678
+06/02/2026;29/08/2026;30/08/2026;Apto Jockey 4;R$ 132;Campos dos Goytacazes;Teste;30;5,8;3;Privado;7,9;6,1;6,3;6,7;6,7;6,8;5,0;N;N;Apartamento;-21.773230321064265;-41.28092340971756
+06/02/2026;29/08/2026;30/08/2026;Apto Agua mês;R$ 336;Parque Leopoldina, Campos dos Goytacazes;Teste;3;6,7;3;Privado;6,7;7,5;6,7;7,5;5,0;6,7;0.0;N;N;Apartamento;-21.756987;-41.346664
+06/02/2026;29/08/2026;30/08/2026;Antonino;R$ 160;Campos dos Goytacazes;Teste;5;6,6;3;Privado;7,5;6,5;7,0;7,5;8,0;6,5;0.0;N;N;Apartamento;-21.762036;-41.325839
+06/02/2026;29/08/2026;30/08/2026;Apart recanto tavares;R$ 270;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7637655;-41.34686
+06/02/2026;29/08/2026;30/08/2026;Flat 1;R$ 225;Campos dos Goytacazes;Teste;11;8,1;3;Privado;8,4;8,4;8,4;8,5;8,5;8,5;10,0;N;N;Apartamento;-21.762036;-41.325839
+06/02/2026;29/08/2026;30/08/2026;Recanto David;R$ 200;Campos dos Goytacazes;Teste;1;10;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7637655;-41.34686
+06/02/2026;29/08/2026;30/08/2026;Apto Boss Campos;R$ 175;Campos dos Goytacazes;Teste;2;7,5;3;Privado;10,0;7,5;7,5;10,0;7,5;7,5;0.0;N;N;Apartamento;-21.762036;-41.325839
+06/02/2026;29/08/2026;30/08/2026;Jockei Campos 1;R$ 169;Campos dos Goytacazes;Teste;1;10;Sem Classificação;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-21.7755974;-41.2773978
+06/02/2026;29/08/2026;30/08/2026;Presidente Kennedy;R$ 250;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.77407258726;-41.281458756448
+06/02/2026;29/08/2026;30/08/2026;Apart top;R$ 176;Campos dos Goytacazes;Teste;2;7,0;Sem Classificação;Privado;7,5;7,5;8,7;7,5;8,7;7,5;0.0;N;N;Apartamento;-21.7651804;-41.3542734
+06/02/2026;29/08/2026;30/08/2026;Apto Novo Jckey;R$ 154;Campos dos Goytacazes;Teste;1;5,0;Sem Classificação;Privado;7,5;5,0;5,0;5,0;5,0;5,0;0.0;N;N;Apartamento;-21.7754153;-41.2776609
+06/02/2026;29/08/2026;30/08/2026;Casa Apart Antonio;R$ 195;Campos dos Goytacazes;Teste;3;6,3;3;Privado;8,3;5,8;6,7;5,0;6,7;7,5;0.0;N;N;Apartamento;-21.778091;-41.284254
+06/02/2026;29/08/2026;30/08/2026;Apto Toulon;R$ 135;Campos dos Goytacazes;Teste;1;10;Sem Classificação;Privado;10,0;10,0;10,0;10,0;10,0;10,0;0.0;N;N;Apartamento;-21.711973;-41.2991954
+06/02/2026;29/08/2026;30/08/2026;Apto Agua 1 quarto;R$ 101;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7651804;-41.3542734
+06/02/2026;29/08/2026;30/08/2026;Apartamento jockey;R$ 135;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7734055;-41.2808555
+06/02/2026;29/08/2026;30/08/2026;Campos Centro Adult Only;R$ 152;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7618585;-41.3259571
+06/02/2026;29/08/2026;30/08/2026;Apto com área churrasco;R$ 375;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7641713;-41.3540956
+06/02/2026;29/08/2026;30/08/2026;Apartamento do Antônio Jockey;R$ 154;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7728626;-41.2815037
+06/02/2026;29/08/2026;30/08/2026;Cepop Campos 1;R$ 216;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-21.7733560580526;-41.2808695538365
+06/02/2026;29/08/2026;30/08/2026;Suite Jockey 1;R$ 113;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-21.7734055;-41.2808555
+06/02/2026;29/08/2026;30/08/2026;Dom Gabriel 4;R$ 130;Campos dos Goytacazes;Teste;9;3,5;Sem Classificação;Privado;6,5;4,5;4,5;5,0;5,5;5,0;0.0;N;N;Apartamento;-21.772909;-41.281523
+06/02/2026;29/08/2026;30/08/2026;Kitinete Antonio X;R$ 325;Campos dos Goytacazes;Teste;2;7,5;3;Privado;7,5;7,5;7,5;6,3;10,0;7,5;0.0;N;N;Apartamento;-21.762036;-41.325839
+06/02/2026;29/08/2026;30/08/2026;Apto Jockey 3;R$ 145;Campos dos Goytacazes;Teste;19;4,3;Sem Classificação;Privado;6,1;5,7;4,9;5,5;5,6;5,1;10,0;N;N;Apartamento;-21.772909;-41.281543
+06/02/2026;29/08/2026;30/08/2026;Jardim de Allah;R$ 250;Campos dos Goytacazes;Teste;0;0;4;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.756326;-41.327238
+06/02/2026;29/08/2026;30/08/2026;Flat jatobás;R$ 150;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7368936849199;-41.3091678372051
+06/02/2026;29/08/2026;30/08/2026;Centro Jardim de Alah;R$ 200;Campos dos Goytacazes;Teste;1;1,0;Sem Classificação;Privado;2,5;2,5;2,5;2,5;2,5;2,5;0.0;N;N;Apartamento;-21.756182;-41.3273568
+06/02/2026;29/08/2026;30/08/2026;Apto Sow Shop;R$ 329;Parque Leopoldina, Campos dos Goytacazes;Teste;8;5,2;Sem Classificação;Privado;5,5;5,5;5,5;5,0;7,0;5,5;0.0;N;N;Apartamento;-21.753777;-41.344512
+06/02/2026;29/08/2026;30/08/2026;Apto David Joq;R$ 162;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7728626;-41.2815037
+06/02/2026;29/08/2026;30/08/2026;Apto no El dorado;R$ 200;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.711973;-41.2991954
+06/02/2026;29/08/2026;30/08/2026;Apto Plaza Shopping;R$ 189;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7366264;-41.3096215
+06/02/2026;29/08/2026;30/08/2026;Dom Antonio 3;R$ 130;Campos dos Goytacazes;Teste;10;6,3;3;Privado;7,2;6,1;6,5;7,0;5,2;7,5;0.0;N;N;Apartamento;-21.837168;-41.254677
+06/02/2026;29/08/2026;30/08/2026;Jockei Campos 3;R$ 216;Campos dos Goytacazes;Teste;3;7,0;3;Privado;7,5;7,5;7,5;7,5;7,5;7,5;0.0;N;N;Apartamento;-21.7728626;-41.2815037
+06/02/2026;29/08/2026;30/08/2026;Acomodação barata.;R$ 150;Campos dos Goytacazes;Teste;1;1,0;3;Privado;2,5;2,5;2,5;2,5;2,5;2,5;0.0;N;N;hóspedes;-21.772909;-41.281543
+06/02/2026;29/08/2026;30/08/2026;Pousada Antonio com NOTA FISCAL;R$ 380;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.772909;-41.281543
+06/02/2026;29/08/2026;30/08/2026;Apart Pierre Agua;R$ 117;Campos dos Goytacazes;Teste;3;4,7;3;Privado;5,0;6,7;6,7;6,7;5,8;7,5;0.0;N;N;Apartamento;-21.7635228;-41.3531341
+06/02/2026;29/08/2026;30/08/2026;Condominio Recanto das palmeiras;R$ 300;Campos dos Goytacazes;Teste;15;5,8;Sem Classificação;Privado;7,4;6,0;6,0;6,5;7,5;6,5;7,5;N;N;Apartamento;-21.75761778873831;-41.353145043685906
+06/02/2026;29/08/2026;30/08/2026;Lua E Agua X;R$ 240;Campos dos Goytacazes;Teste;3;7,0;3;Privado;9,2;8,3;6,7;8,3;8,3;6,7;0.0;N;N;Apartamento;-21.764733;-41.354663
+06/02/2026;29/08/2026;30/08/2026;Casa Guarus;R$ 228;Campos dos Goytacazes;Teste;0;0;4;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.725806;-41.324797
+06/02/2026;29/08/2026;30/08/2026;Jardim de Alah;R$ 250;Campos dos Goytacazes;Teste;0;0;4;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.756292;-41.326805
+06/02/2026;29/08/2026;30/08/2026;Casa Sonho;R$ 2.250;Campos dos Goytacazes;Teste;0;0;4;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-21.7665806;-41.3519912
+06/02/2026;29/08/2026;30/08/2026;Apto Oniz Campos X;R$ 219;Campos dos Goytacazes;Teste;1;6,0;4;Privado;7,5;7,5;5,0;7,5;10,0;7,5;0.0;N;N;Apartamento;-21.763691;-41.352763
+06/02/2026;29/08/2026;30/08/2026;Apartamento residencial;R$ 214;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7644937;-41.3116623
+06/02/2026;29/08/2026;30/08/2026;Apto Ventano;R$ 350;Campos dos Goytacazes;Teste;4;5,5;3;Privado;7,5;6,2;6,2;8,1;8,1;6,2;0.0;N;N;Apartamento;-21.764733;-41.354663
+06/02/2026;29/08/2026;30/08/2026;Apto Lindo Agua;R$ 280;Campos dos Goytacazes;Teste;0;0;4;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.764768;-41.354636
+06/02/2026;29/08/2026;30/08/2026;Apartamento na 28 de março;R$ 170;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7858103;-41.3005427
+06/02/2026;29/08/2026;30/08/2026;Apartamento Antônio Recanto;R$ 360;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7637655;-41.34686
+06/02/2026;29/08/2026;30/08/2026;Apartamento david 108;R$ 200;Campos dos Goytacazes;Teste;1;2,0;Sem Classificação;Privado;2,5;2,5;5,0;2,5;10,0;2,5;0.0;N;N;Apartamento;-21.7651804;-41.3542734
+06/02/2026;29/08/2026;30/08/2026;Apto Antonio 3;R$ 200;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.772875;-41.281514
+06/02/2026;29/08/2026;30/08/2026;Apart luxo;R$ 150;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7635228;-41.3531341
+06/02/2026;29/08/2026;30/08/2026;Apartamento do Antônio Agua;R$ 135;Campos dos Goytacazes;Teste;2;3,5;Sem Classificação;Privado;3,7;5,0;3,7;3,7;3,7;3,7;0.0;N;N;Apartamento;-21.7643076;-41.3529943
+06/02/2026;29/08/2026;30/08/2026;Apto 1 Agua Marinha;R$ 540;Campos dos Goytacazes;Teste;30;7,8;3;Privado;7,7;7,4;7,4;7,0;8,6;7,4;3,8;N;N;Apartamento;-21.764953;-41.353136
+06/02/2026;29/08/2026;30/08/2026;Apto no El dorado;R$ 200;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7135076;-41.3005425
+06/02/2026;29/08/2026;30/08/2026;Presidente Cepop 3;R$ 180;Campos dos Goytacazes;Teste;4;4,3;Sem Classificação;Privado;6,9;6,3;5,6;5,6;6,9;7,5;10,0;N;N;Apartamento;-21.772863;-41.281504
+06/02/2026;29/08/2026;30/08/2026;David Agua 7-108;R$ 315;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7635228;-41.3531341
+06/02/2026;29/08/2026;30/08/2026;Apto no El dorado;R$ 200;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7133411;-41.3023849
+06/02/2026;29/08/2026;30/08/2026;Apto Solar do Coqueiro;R$ 425;Campos dos Goytacazes;Teste;6;5,6;2;Privado;7,0;6,5;6,5;6,5;6,5;6,5;5,0;N;N;Apartamento;-21.785729;-41.300368
+06/02/2026;29/08/2026;30/08/2026;STUDIO Centro Lacerda;R$ 450;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.756292;-41.326805
+06/02/2026;29/08/2026;30/08/2026;Projetada com Joao;R$ 220;Campos dos Goytacazes;Teste;1;1,0;3;Privado;0.0;0.0;0.0;0.0;2,5;0.0;0.0;N;N;Apartamento;-21.837153;-41.254665
+06/02/2026;29/08/2026;30/08/2026;Flamboyan apart 01;R$ 350;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7699725663409;-41.2795062777474
+06/02/2026;29/08/2026;30/08/2026;Casa Linda, 50m da praia no Farol de São Thomé;R$ 300;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-22.0543671560352;-41.0729776987196
+06/02/2026;29/08/2026;30/08/2026;Piscina com churrasqueira;R$ 800;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-21.7663783308219;-41.3514710810594
+06/02/2026;29/08/2026;30/08/2026;Casa Aeroporto Campos;R$ 284;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-21.7257629;-41.3248493
+06/02/2026;29/08/2026;30/08/2026;Apto Guimarães onix;R$ 240;Campos dos Goytacazes;Teste;3;4,0;3;Privado;5,0;5,0;5,0;5,0;5,0;5,0;0.0;N;N;Apartamento;-21.764953;-41.353136
+06/02/2026;29/08/2026;30/08/2026;Pousada Sabia;R$ 72;Campos dos Goytacazes;Teste;4;6,5;Sem Classificação;Privado;6,9;6,3;6,3;7,5;7,5;8,1;0.0;N;N;hóspedes;-22.0383141;-41.0424305
+06/02/2026;29/08/2026;30/08/2026;Flamboyan acomodit;R$ 525;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7662047;-41.2936305
+06/02/2026;29/08/2026;30/08/2026;Casa confraternização;R$ 2.550;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;temporada;-21.7893109;-41.3008293
+06/02/2026;29/08/2026;30/08/2026;Apto Ambar;R$ 360;Campos dos Goytacazes;Teste;1;1,0;3;Privado;2,5;2,5;2,5;2,5;2,5;2,5;0.0;N;N;Apartamento;-21.7640171;-41.3521246
+06/02/2026;29/08/2026;30/08/2026;Apto Mod life;R$ 1.200;Campos dos Goytacazes;Teste;0;0;3;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.762884;-41.295018
+06/02/2026;29/08/2026;30/08/2026;EquineCare Ranch;R$ 441;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.8616790521885;-41.2685724951553
+06/02/2026;29/08/2026;30/08/2026;Casa Duplex;R$ 2.250;Campos dos Goytacazes;Teste;0;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.7665806;-41.3519912
+06/02/2026;29/08/2026;30/08/2026;Novo, funcional e bem localizado;R$ 8.100;Campos dos Goytacazes;Teste;6;0;Sem Classificação;Privado;0.0;0.0;0.0;0.0;0.0;0.0;0.0;N;N;Apartamento;-21.764394586224;-41.3447516239759
