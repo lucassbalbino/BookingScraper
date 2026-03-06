@@ -1,0 +1,6 @@
+Dt-Proce;Dt-Inicio;Dt-Fim;Nome;Tarifa;Cidade;Identifica;Avaliações;Nota;Estrelas;Propriedade;Funcionários;Comodidades;Limpeza;Conforto;Relação Qualidade/Preço;Localização;Wifi;Travel-Proud;Sustentabilidade;Tipo;Latitude;Longitude
+06/03/2026;06/03/2026;07/03/2026;ibis budget Manaus;R$ 230;Manaus;teste;4076;8,5;3;Hotel;8,9;8,3;8,6;8,4;9,1;8,3;8,2;S;S;Hotel;-3.1070635;-60.0239171
+06/03/2026;06/03/2026;07/03/2026;Express Vieiralves;R$ 202;Manaus;teste;2759;8,2;3;Hotel;8,5;7,8;8,2;8,1;9,0;8,1;7,5;N;N;Hotel;-3.102768608369873;-60.023078799422365
+06/03/2026;06/03/2026;07/03/2026;ibis Manaus Aeroporto;R$ 347;Manaus;teste;1654;7,4;3;Hotel;7,8;7,4;7,7;7,7;8,4;7,2;7,9;S;S;Hotel;-3.025355;-60.057318
+06/03/2026;06/03/2026;07/03/2026;Mercure Manaus;R$ 357;Manaus;teste;254;7,9;4;Hotel;8,5;7,9;8,3;8,2;9,0;7,5;7,3;S;N;Hotel;-3.1070597351722347;-60.01286566257477
+06/03/2026;06/03/2026;07/03/2026;Blue Tree Premium Manaus;R$ 334;Manaus;teste;1023;8,4;4;Hotel;9,0;8,3;8,6;8,7;8,8;8,1;7,8;N;N;Hotel;-3.110262936644744;-60.01052275300026

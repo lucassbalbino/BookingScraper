@@ -11,6 +11,99 @@ import re
 InsideScraper_list = []
 Accommodations_list = []
 
+
+# ---------------------------------------------------------------------------
+# Validação de dados — detecta campos ausentes ou padrão
+# ---------------------------------------------------------------------------
+BASIC_FIELDS = ['name', 'price', 'location', 'reviews', 'rating', 'stars', 'private']
+ANALYTIC_FIELDS = BASIC_FIELDS + [
+    'Funcionários', 'Comodidades', 'Limpeza', 'Conforto',
+    'Custo-benefício', 'Localização', 'WiFi gratuito',
+    'travel_proud', 'sustentability', 'TipoHotel', 'latitude', 'longitude'
+]
+_DEFAULT_VALUES = {'N/A', '0', '0,0', '0.0', 'Sem Classificação', '', None}
+
+
+def validate_accommodation(accommodation, analytic=False):
+    """Valida um dicionário de acomodação e retorna lista de problemas encontrados."""
+    issues = []
+    fields = ANALYTIC_FIELDS if analytic else BASIC_FIELDS
+    for field in fields:
+        value = accommodation.get(field)
+        if value is None:
+            issues.append(f"Campo '{field}' ausente")
+        elif str(value).strip() in _DEFAULT_VALUES:
+            issues.append(f"Campo '{field}' com valor padrão/vazio: {repr(value)}")
+    return issues
+
+
+def validate_all(Accommodations_list, analytic=False):
+    """Valida toda a lista e retorna um resumo de problemas."""
+    total = len(Accommodations_list)
+    total_issues = 0
+    accommodations_with_issues = 0
+
+    for idx, acc in enumerate(Accommodations_list):
+        issues = validate_accommodation(acc, analytic=analytic)
+        if issues:
+            accommodations_with_issues += 1
+            total_issues += len(issues)
+
+    return accommodations_with_issues, total_issues
+
+
+# ---------------------------------------------------------------------------
+# Relatório-resumo — gera estatísticas de qualidade da extração
+# ---------------------------------------------------------------------------
+def generate_summary_report(Accommodations_list, analytic=False, file_name=None):
+    """Gera um relatório de qualidade dos dados extraídos."""
+    total = len(Accommodations_list)
+    if total == 0:
+        return
+
+    fields = ANALYTIC_FIELDS if analytic else BASIC_FIELDS
+    field_stats = {f: {'ok': 0, 'default': 0, 'missing': 0} for f in fields}
+
+    for acc in Accommodations_list:
+        for field in fields:
+            value = acc.get(field)
+            if value is None:
+                field_stats[field]['missing'] += 1
+            elif str(value).strip() in _DEFAULT_VALUES:
+                field_stats[field]['default'] += 1
+            else:
+                field_stats[field]['ok'] += 1
+
+    report_lines = []
+    report_lines.append(f"{'='*70}")
+    report_lines.append(f" RELATÓRIO DE QUALIDADE — {total} acomodações")
+    report_lines.append(f"{'='*70}")
+    report_lines.append(f"{'Campo':<22} {'OK':>6} {'Padrão':>8} {'Ausente':>8} {'% OK':>7}")
+    report_lines.append(f"{'-'*70}")
+
+    for field in fields:
+        s = field_stats[field]
+        pct = (s['ok'] / total * 100) if total else 0
+        report_lines.append(f"{field:<22} {s['ok']:>6} {s['default']:>8} {s['missing']:>8} {pct:>6.1f}%")
+
+    report_lines.append(f"{'-'*70}")
+    overall_ok = sum(s['ok'] for s in field_stats.values())
+    overall_total = total * len(fields)
+    overall_pct = (overall_ok / overall_total * 100) if overall_total else 0
+    report_lines.append(f"{'TOTAL':<22} {overall_ok:>6} {'':>8} {'':>8} {overall_pct:>6.1f}%")
+    report_lines.append(f"{'='*70}")
+
+    full_report = '\n'.join(report_lines)
+    print(full_report)
+
+    # Salva relatório em arquivo separado se file_name fornecido
+    if file_name:
+        report_path = f"{file_name}_relatorio.txt"
+        with open(report_path, 'w', encoding='utf-8') as f:
+            f.write(full_report)
+
+    return field_stats
+
 def get_analitica():
     analitica = input('Deseja dados analiticos? (S/N)')
     return analitica
@@ -44,11 +137,56 @@ def get_location():
 
     # Configurações do Chrome (site Booking)
 def get_driver():
-    # Localize o caminho do chromedriver na sua máquina
-    chrome_driver_path = './chromedriver.exe'  
+    chrome_driver_path = './chromedriver.exe'
     options = webdriver.ChromeOptions()
-    options.add_argument('--log-level=3')  # Suprime logs desnecessários
-    driver = webdriver.Chrome(service=Service(chrome_driver_path), options=options) 
+
+    # --- Anti-detecção ---
+    # 1. Remove flag que identifica automação
+    options.add_argument('--disable-blink-features=AutomationControlled')
+
+    # 2. User-Agent realista (Chrome atual em Windows)
+    options.add_argument(
+        'user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+        'AppleWebKit/537.36 (KHTML, like Gecko) '
+        'Chrome/145.0.0.0 Safari/537.36'
+    )
+
+    # 3. Janela em tamanho normal (bot costuma abrir em tamanho padrão pequeno)
+    options.add_argument('--start-maximized')
+
+    # 4. Ignora detecção de sandboxing
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--no-sandbox')
+
+    # 5. Desabilita infobars ("Chrome está sendo controlado por software de teste")
+    options.add_experimental_option('excludeSwitches', ['enable-automation'])
+    options.add_experimental_option('useAutomationExtension', False)
+
+    # 6. Suprime logs
+    options.add_argument('--log-level=3')
+
+    # 7. Idioma pt-BR para consistência com Booking
+    options.add_argument('--lang=pt-BR')
+
+    driver = webdriver.Chrome(service=Service(chrome_driver_path), options=options)
+
+    # 8. Remove navigator.webdriver = true (principal flag de detecção)
+    driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocument', {
+        'source': '''
+            Object.defineProperty(navigator, 'webdriver', {get: () => undefined});
+            // Simula plugins reais
+            Object.defineProperty(navigator, 'plugins', {
+                get: () => [1, 2, 3, 4, 5]
+            });
+            // Simula linguagens
+            Object.defineProperty(navigator, 'languages', {
+                get: () => ['pt-BR', 'pt', 'en-US', 'en']
+            });
+            // Remove chrome.runtime para não parecer extensão
+            window.chrome = { runtime: {} };
+        '''
+    })
+
     return driver
 
 def get_id():
@@ -172,6 +310,7 @@ def get_name(accomodation):
         name_raw = accomodation.find_element(By.XPATH, './/*[@data-testid="title"]').text
         name = name_raw.replace(';','')
     except Exception as e:
+        name = 'N/A'
         print(f"Erro ao obter o nome do hotel: {e}")
     return name
 
@@ -181,35 +320,45 @@ def get_price(accomodation):
         price = accomodation.find_element(By.XPATH, './/*[@data-testid="price-and-discounted-price"]').text
         print(price)
     except Exception as e:
+        price = 'N/A'
         print(f"Erro ao obter o preço do hotel: {e}")
     return price
 
 def get_city(accomodation):
     try:
     # Obtendo a localização do hotel
-        location = accomodation.find_element(By.XPATH, './/*[@data-testid="address"]').text
+        location = accomodation.find_element(By.XPATH, './/*[@data-testid="address-link"]').text
         print(location)
     except Exception as e:
+        location = 'N/A'
         print(f"Erro ao obter a localização do hotel: {e}")
     return location
 
 def get_reviews(accomodation):
-    # Obtendo o número de reviews do hotel
+    # Obtendo o número de reviews do hotel a partir do texto completo do container
     reviews = '0'
     try:
-        reviews_texto = accomodation.find_element(By.XPATH, ".//div[contains(@class, 'fff1944c52') and contains(@class, 'fb14de7f14') and contains(@class, 'eaa8455879')]").text
-        match = re.search(r"^\s*(\d+)", reviews_texto)
+        containers = accomodation.find_elements(By.CSS_SELECTOR, '[data-testid="review-score"]')
+        if not containers:
+            return '0'
+        full_text = containers[0].text
+        print(f"DEBUG review-score texto: {repr(full_text)}")
+        # Procura padrão "N avaliações" ou "N avaliação"
+        match = re.search(r'([\d.]+)\s*(?:avaliações|avaliação|coment[áa]rios?)', full_text, re.IGNORECASE)
         if match:
-            reviews = int(match.group(1))
+            reviews = int(match.group(1).replace('.', ''))
     except Exception as e:
         reviews = '0'
         print(f"Erro ao obter o número de reviews do hotel: {e}")
     return reviews
 
 def get_rating(accomodation):
-    # Obtendo a avaliação do hotel
+    # Obtendo a avaliação do hotel — 2ª div descendente do container review-score
     try:
-        rating = accomodation.find_element(By.XPATH, ".//div[contains(@class, 'f63b14ab7a dff2e52086')]").text
+        rating_div = accomodation.find_element(By.CSS_SELECTOR, '[data-testid="review-score"] > div:nth-child(2)')
+
+        
+        rating = rating_div.text.strip()
     except Exception as e:
         print(f"Erro ao obter a avaliação do hotel: {e}")
         rating = '0'
@@ -340,7 +489,7 @@ def get_subscores(driver):
                 # opcional: verifique nomes inesperados durante testes
                 print(f"Erro ao obter subscores \nDEBUG: nome não reconhecido: {nome} -> {nota}")
     except Exception as e:
-        print("DEBUG get_subscores erro:", e)
+        pass
     return inside_dict
 
 
@@ -370,14 +519,10 @@ def get_TipoHotel(driver):
         TipoHotel = TipoHotel_raw.split(' ')
         TipoHotel = TipoHotel[-2]
         TipoHotel = TipoHotel.strip('()')
-
-    
     
     except Exception as e:
-        #TipoHotel_raw = WebDriverWait(driver,2).until(EC.presence_of_element_located((By.XPATH, "//*[contains(@class, 'bui_breadcrumb__nolink')]"))).text
         TipoHotel_raw = driver.find_element(By.XPATH, "//*[contains(@class, 'bui_breadcrumb__nolink')]").text
         TipoHotel = re.findall(r'\(([^)]*)\)', TipoHotel_raw)[0]    
-        
     
     return TipoHotel
 
@@ -391,7 +536,8 @@ def get_lat_long(driver):
     
     except Exception as e:
         print(f'Erro ao carregar lat_long: {e}')
-        lat_long = 'N'
+        latitude = 'N/A'
+        longitude = 'N/A'
     return latitude, longitude
 
 

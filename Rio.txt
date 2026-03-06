@@ -1,0 +1,6 @@
+Dt-Proce;Dt-Inicio;Dt-Fim;Nome;Tarifa;Cidade;Identifica;Avaliações;Nota;Estrelas;Propriedade;Funcionários;Comodidades;Limpeza;Conforto;Relação Qualidade/Preço;Localização;Wifi;Travel-Proud;Sustentabilidade;Tipo;Latitude;Longitude
+06/03/2026;06/03/2026;07/03/2026;ibis budget Rio de Janeiro Centro;R$ 272;Centro, Rio de Janeiro;teste;0;7,3;2;Hotel;8,3;7,0;7,5;7,2;8,0;7,2;7,3;S;N;Hotel;-22.90772;-43.181746
+06/03/2026;06/03/2026;07/03/2026;Arosa Rio Hotel;R$ 421;Centro, Rio de Janeiro (Lapa);teste;0;8,1;4;Hotel;8,5;8,2;8,4;8,4;7,5;7,9;8,5;S;N;Hotel;-22.912686641633357;-43.19091171026224
+06/03/2026;06/03/2026;07/03/2026;ibis Rio de Janeiro Santos Dumont;R$ 377;Centro, Rio de Janeiro;teste;0;8,1;3;Hotel;8,7;8,0;8,2;8,2;8,3;7,7;8,3;S;N;Hotel;-22.908539;-43.16959800000001
+06/03/2026;06/03/2026;07/03/2026;ibis Rio de Janeiro Centro;R$ 335;Centro, Rio de Janeiro;teste;0;7,6;3;Hotel;8,4;7,4;7,7;7,7;8,0;7,3;7,4;S;N;Hotel;-22.90738837792571;-43.181891441345215
+06/03/2026;06/03/2026;07/03/2026;Hotel Atlantico Prime;R$ 289;Centro, Rio de Janeiro (Lapa);teste;0;6,8;4;Hotel;7,4;6,8;6,9;7,0;7,5;7,2;6,5;N;N;Hotel;-22.9134395;-43.186806899999965
